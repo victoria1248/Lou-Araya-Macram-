@@ -1,0 +1,12 @@
+RESPALDO PRIVADO DE FIRMA - LOU ARAYA MACRAME
+
+Archivo: louaraya-release.jks
+Alias: louaraya-release
+Contraseña del almacén: LouAraya-oPR-RSJFEM0gsG8Q!
+Contraseña de la clave: LouAraya-oPR-RSJFEM0gsG8Q!
+
+IMPORTANTE:
+- No publiques este archivo ni el JKS en GitHub, Trello, AVA público ni capturas.
+- Guarda una copia segura fuera del computador.
+- Si pierdes esta llave, no podrás publicar actualizaciones firmadas con la misma identidad.
+- El JKS fue generado para este proyecto y debes conservarlo de forma privada.
